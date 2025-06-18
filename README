@@ -1,0 +1,28 @@
+Movie Database Manager
+A Python-based command-line application for managing your personal movie collection with advanced analytics and visualization.
+
+Key Features
+🎬 CRUD Operations: Add, list, update, and delete movie entries
+📊 Statistics: View average/median ratings, best/worst movies
+🎲 Random Picker: Discover random movies from your collection
+🔍 Search Function: Find movies by title fragments
+⭐ Rating Tools: Sort movies by rating & generate histograms
+📈 Data Visualization: Matplotlib-powered rating distribution charts
+
+Tech Stack
+Python 3 (Standard Library)
+Matplotlib for data visualization
+Statistics module for metrics
+Dictionary-based data storage
+
+This description highlights:
+
+The core functionality in an easy-to-scan format
+Technical implementation details
+Clear value proposition for users
+Visual emojis for better readability
+Simple execution instructions
+Keywords for discoverability (database, Python, matplotlib, analytics)
+
+You might also consider adding these hashtags in your repo description for better visibility:
+#python #database #matplotlib #movies #analytics #command-line-tool
